@@ -19,8 +19,9 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 ### Preparing Your Computer for the Workshop
 
 1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine.
-2. Install Jupyter Notebook
-3. Instal the following necessary Python libraries.
+2. Instal the following necessary Python libraries.
+3. Install Jupyter Notebook
+4. Clone this Git repository so that you get the Jupyter Notebook files (.ipynb).
 
 ### Getting the Dataset
 
