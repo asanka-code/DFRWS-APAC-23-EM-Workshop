@@ -1,3 +1,4 @@
+# This README File is Still Under Construction
 # DFRWS APAC 2023 Workshop: 
 ## Forensic Insights from Electromagnetic Radiation
 
@@ -14,3 +15,21 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 
 #### Part 2:
 5. Analysing EM dataset using Python.
+
+### Preparing Your Computer for the Workshop
+
+1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine.
+2. Install Jupyter Notebook
+3. Instal the following necessary Python libraries.
+
+### Getting the Dataset
+
+In this workshop, we will be using an EM dataset. In compressed form, it has a size of arund 12 GB. After uncompressing, it will be around 50 GB. There are two ways to get the EM dataset.
+
+#### Option 1:
+If you are physically attending the workshop in Singapore, there will plenty of USB sticks available to copy the dataset to your computer.
+
+#### Option 2:
+URL to the dataset in ASEADOS server.
+
+See you at the workshop! 
