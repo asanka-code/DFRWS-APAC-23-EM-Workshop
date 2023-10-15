@@ -33,6 +33,7 @@ If you are physically attending the workshop in Singapore, we will provide plent
 
 #### Option 2:
 If you are joining the workshop remotely (online), or prefer to have the dataset in advance, you can download it from the following URL: https://aseados.ucd.ie/datasets/EMSCA/em-dataset.h5.gz
+
 MD5 Hash value of the uncompressed dataset file (em-dataset.h5): b998495b45e7aea27e1912ea060d404d
 
 See you at the workshop! 
