@@ -30,6 +30,7 @@ In this workshop, we will be using an EM dataset. In compressed form, it has a s
 If you are physically attending the workshop in Singapore, there will plenty of USB sticks available to copy the dataset to your computer.
 
 #### Option 2:
-URL to the dataset in ASEADOS server.
+Download the dataset from the following URL and uncompress it.
+URL to the dataset: https://aseados.ucd.ie/datasets/EMSCA/em-dataset.h5.gz
 
 See you at the workshop! 
