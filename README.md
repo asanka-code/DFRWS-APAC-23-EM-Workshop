@@ -26,7 +26,8 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
    - sudo apt install python3-matplotlib
    - sudo apt install python3-numpy
    - sudo apt install python3-scipy
-3. Clone this Git repository so that you get the Jupyter Notebook files (.ipynb) that contains the code examples.
+   - *stay prepared to install any additional libraries on the go if needed*
+3. Clone/download this Git repository to your so that you get the latest Jupyter Notebook files (.ipynb) that contains the code examples to try in the workshop.
 
 ### Getting the Dataset
 
