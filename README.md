@@ -19,9 +19,10 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 ### Preparing Your Computer for the Workshop
 
 1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine.
-2. Instal the following necessary Python libraries.
-3. Install Jupyter Notebook
-4. Install GNURadio Companion (GRC) software.
+2. Install GNURadio, GQRX and several other tools and libraries in one go by running the following command:
+   - sudo apt install gqrx-sdr 
+3. Instal the following necessary Python libraries.
+4. Install Jupyter Notebook
 5. Clone this Git repository so that you get the Jupyter Notebook files (.ipynb) that contains the code examples.
 
 ### Getting the Dataset
