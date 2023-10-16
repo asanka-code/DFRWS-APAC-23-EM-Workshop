@@ -27,6 +27,7 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
    - sudo apt install python3-numpy
    - sudo apt install python3-scipy
    - sudo apt install python3-sklearn
+   - sudo apt install python3-h5py
    - *stay prepared to install any additional libraries on the go if needed*
 3. Clone/download this Git repository to your so that you get the latest Jupyter Notebook files (.ipynb) that contains the code examples to try in the workshop.
 
