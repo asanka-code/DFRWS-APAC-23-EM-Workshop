@@ -22,6 +22,10 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 2. Install several tools and libraries by running the following commands:
    - sudo apt install gqrx-sdr
    - sudo apt install jupyter
+   - sudo apt install python3-pandas
+   - sudo apt install python3-matplotlib
+   - sudo apt install python3-numpy
+   - sudo apt install python3-scipy
 3. Clone this Git repository so that you get the Jupyter Notebook files (.ipynb) that contains the code examples.
 
 ### Getting the Dataset
