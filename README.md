@@ -18,7 +18,7 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 
 ### Preparing Your Computer for the Workshop
 
-1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine.
+1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine. *Ubuntu 22.04 LTS* is recommended.
 2. Install several tools and libraries by running the following commands:
    - sudo apt install gqrx-sdr
    - sudo apt install jupyter
