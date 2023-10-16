@@ -1,4 +1,3 @@
-# This README File is Still Under Construction
 # DFRWS APAC 2023 Workshop: 
 ## Forensic Insights from Electromagnetic Radiation
 
@@ -29,7 +28,7 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
    - sudo apt install python3-sklearn
    - sudo apt install python3-h5py
    - *stay prepared to install any additional libraries on the go if needed*
-3. Clone/download this Git repository to your so that you get the latest Jupyter Notebook files (.ipynb) that contains the code examples to try in the workshop.
+3. Clone/download this Git repository to your so that you get the latest Jupyter Notebook files (.ipynb) that contains the code examples to try in the workshop. *The code examples will be added to this repository soon.*
 
 ### Getting the Dataset
 
